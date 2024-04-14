@@ -1,0 +1,59 @@
+{
+  "dart.flutterSdkPath": ".fvm/flutter_sdk",
+  // "debug.toolBarLocation": "commandCenter",
+  "dart.closingLabels": true,
+  "dart.showTodos": [
+    "TODO",
+    "FIXME",
+    "HACK",
+    "UNDONE",
+  ],
+  "search.exclude": {
+    "**/.fvm": true,
+    "**.g.dart": true,
+    "**.freezed.dart": true
+  },
+  "files.watcherExclude": {
+    "**/.fvm": true
+  },
+  "files.exclude": {
+    "**/*.freezed.dart": true,
+    "**/*.g.dart": true
+  },
+  // "editor.stickyScroll.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    "pubspec.yaml": ".metadata, pubspec.lock",
+    // "*.dart": "${capture}.g.dart, ${capture}.freezed.dart"
+  },
+  // "explorer.fileNesting.patterns": {
+  //   "pubspec.yaml": "pubspec.lock,pubspec_overrides.yaml,.packages,.flutter-plugins,.flutter-plugins-dependencies,.metadata",
+  //   "*.dart": "${capture}.g.dart, ${capture}.freezed.dart"
+  // },
+  // "explorer.fileNesting.enabled": true,
+  // "explorer.fileNesting.expand": false,
+  "cSpell.words": [
+    "autocorrect",
+    "CQRS",
+    "firestorage",
+    "followee",
+    "Gaimon",
+    "Hiragino",
+    "Iconify",
+    "isload",
+    "LTWH",
+    "Overscroll",
+    "pubspec",
+    "purin",
+    "Recents",
+    "subosito",
+    "todos",
+    "unfocus",
+    "unfollow"
+  ]
+}
